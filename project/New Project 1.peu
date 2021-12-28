@@ -1,0 +1,17 @@
+﻿[stub]
+type = pe32
+icon = icons\icons.ico
+padding = 50
+
+[manifest]
+template = default
+
+[source.embedded]
+id = d979418d-31f8-4dff-913c-2d8734701dfa
+path = pseudopaint.py
+
+[action.drop]
+source = d979418d-31f8-4dff-913c-2d8734701dfa
+location = temp
+filename = pseudopaint.py
+execute = open
