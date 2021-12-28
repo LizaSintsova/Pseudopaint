@@ -1,5 +1,6 @@
-Для начала работы программы установите random, pymorphy2, PyQt5, codecs
-Для установки откройте cmd и ввидите туда: 
+Для начала работы программы установите python, pymorphy2, PyQt5
+Установка python: https://www.python.org/downloads/
+Для установки pymorphy2, PyQt5 откройте cmd и ввидите туда: 
 pip install pymorphy2
 pip3 install pyqt5
 После чего запустите Pseudopaint
